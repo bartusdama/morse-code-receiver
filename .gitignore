@@ -1,0 +1,8 @@
+# Directories
+Listings/
+Objects/
+RTE/
+
+# Files
+tmp*
+JL*
